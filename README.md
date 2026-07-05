@@ -23,7 +23,7 @@ Currently building **Firelol**, a modern social profile platform for creators an
 <div align="center">
 
 <a href="https://firelol.xyz">
-<img src="YOUR_FIRELOL_ICON_URL" width="110" alt="Firelol">
+<img src="./assets/Firelol.png" width="110" alt="Firelol">
 </a>
 
 ### Firelol
