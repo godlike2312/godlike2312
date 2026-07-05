@@ -49,13 +49,6 @@ A customizable profile platform built for creators, developers, and gaming commu
 ---
 
 ## GitHub
-
-<p align="center">
-
-<img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=godlike2312&layout=compact&theme=transparent&hide_border=true"/>
-
-</p>
-
 <p align="center">
 
 <img src="https://streak-stats.demolab.com?user=godlike2312&theme=transparent&hide_border=true"/>
