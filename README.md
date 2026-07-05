@@ -60,16 +60,16 @@ A customizable profile platform built for creators, developers, and gaming commu
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=YOUR_USERNAME&theme=transparent&hide_border=true"/>
+<img src="https://streak-stats.demolab.com?user=godlike2312&theme=transparent&hide_border=true"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=YOUR_USERNAME&theme=github-compact&hide_border=true"/>
+<img src="https://github-readme-activity-graph.vercel.app/graph?username=godlike2312&theme=github-compact&hide_border=true"/>
 
 </p>
-
+<img src="https://raw.githubusercontent.com/godlike2312/godlike2312/output/github-contribution-grid-snake.svg"/>
 ---
 
 ## Links
