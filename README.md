@@ -57,9 +57,7 @@ A customizable profile platform built for creators, developers, and gaming commu
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=godlike2312&theme=github-compact&hide_border=true" />
 </p>
 
-<p align="center">
-  <img src="https://raw.githubusercontent.com/godlike2312/godlike2312/output/github-contribution-grid-snake.svg" alt="Snake animation" />
-</p>
+
 
 ---
 ## Links
